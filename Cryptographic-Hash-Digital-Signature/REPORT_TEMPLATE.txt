@@ -1,0 +1,26 @@
+ASSIGNMENT 5 REPORT TEMPLATE
+
+Title: Evaluation of Cryptographic Hash Algorithms and Digital Signature Schemes
+
+1. Problem Statement
+2. Objective and Expected Outcomes
+3. Requirements, Constraints and Assumptions
+4. Application of Relevant Course Knowledge / Concepts
+5. Design / Proposed Solution / Methodology
+6. Algorithm / Pseudocode / Flowchart
+7. Implementation / Source Code and Environment / Tools Used
+8. Test Cases and Expected / Actual Results
+9. Execution Screenshots / Outputs
+10. Results and Validation
+11. Analysis, Comparison, Trade-offs and Justification
+12. Broader Considerations / SDG Relevance
+13. Conclusion, Limitations and Possible Improvements
+14. Individual Contribution of Group Members
+15. One-Page Individual Reflection
+16. References
+
+IMPORTANT:
+- Use your own screenshots from the application.
+- Each member must write their own one-page reflection.
+- Mention only work that the individual actually performed.
+- Acknowledge external sources, datasets, code, tools and other resources used.
